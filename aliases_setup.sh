@@ -5,3 +5,4 @@ git config --global alias.s "status"
 #sets up alias of "co" for checkout
 git config --global alias.co "checkout"
 git config --global alias.br "branch"
+git config --global alias.p "push"
