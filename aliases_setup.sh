@@ -8,4 +8,5 @@ git config --global alias.br "branch"
 git config --global alias.p "push"
 git config --global alias.c "commit"
 git config --global alias.g "git"
+# alias d for branch delete
 git config --global alias.d "branch -D"
