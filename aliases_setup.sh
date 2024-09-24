@@ -4,6 +4,7 @@ git config --global alias.l "log --oneline --graph --n10"
 git config --global alias.s "status"
 #sets up alias of "co" for checkout
 git config --global alias.co "checkout"
+#sets up alias of "br" for branch
 git config --global alias.br "branch"
 git config --global alias.p "push"
 git config --global alias.c "commit"
