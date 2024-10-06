@@ -6,6 +6,7 @@ git config --global alias.s "status"
 git config --global alias.co "checkout"
 #sets up alias of "br" for branch
 git config --global alias.br "branch"
+# sets up alias p for push
 git config --global alias.p "push"
 git config --global alias.c "commit"
 # alias g for git
