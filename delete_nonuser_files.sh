@@ -7,7 +7,7 @@ function deleteNonUserNonRootFiles(){
 # $HOME will select the home directory of current user
 output_file="$HOME/user_info.txt"
 
-#output a header to the output file for formatting
+#output a header to the output file for formatting purposes 
 #if file doesn't exist, > will create it
 echo "# User IDs and Usernames list:" > "$output_file"
 
